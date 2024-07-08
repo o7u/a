@@ -142,21 +142,7 @@
     "spec": 2
 },
       "background": {
-    "blur": 0.5,
+    "blur": 1.0,
     "url": "https://cdn.discordapp.com/attachments/1251464233455976551/1259784438770962432/UmVYq5CY.jpg?ex=668cf12f&is=668b9faf&hm=212a4ca833bb977019a39bcc599b17773af166c529f1d394cbf9444c6ee5d75a&",
-    "alpha": 0.7
+    "alpha": 2.0
     },
-    "plus":{
-   "version":"0",
-   "iconpack":"rosiecord-plumpy",
-   "icons":{
-            "ic_new_pins":["#e64553"],
-            "StatusStreaming": ["#7e64fb"],
-          "StatusMobileOnline": ["#09bd63"],
-          "StatusIdle": ["#ffd401"],
-          "StatusDND": ["#ff611a"],
-          "StatusOffline": ["#015bd5"],
-          "StatusOnline": ["#09bd63"]}
-},
-    "color": "#4d4463"
-}
